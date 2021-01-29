@@ -1,0 +1,7 @@
+celery
+flower
+mysql-replication
+pymysql
+redis
+streamlit
+zodb
